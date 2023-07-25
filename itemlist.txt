@@ -1,0 +1,10 @@
+Dhara-FreshOil|500ml|250|501|3
+Loose-ToorDal|1Kg|119|504|12
+OliveOil|500ml|300|505|7
+Sugar-Loose|1Kg|199|506|0
+Loose-UradDal|1Kg|107|507|6
+Cow-Ghee|1L|609|508|9
+Besan|1Kg|45|509|10
+Rawa|1Kg|45|510|9
+Tomato|500g|30|511|4
+Potato|500g|30|512|10

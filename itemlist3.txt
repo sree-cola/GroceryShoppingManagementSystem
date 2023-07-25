@@ -1,0 +1,7 @@
+Zudio-Jeans(Men)|Strechable|600|301|14
+Zudio-Jeans(Women)|Strechable|300|302|15
+Zudio-Jeans(Men)|Slim-Fit|500|303|15
+Zudio-Jeans(Women)|Slim-Fit|800|304|15
+Denims-Tshirt(Men)|Cotton|250|305|5
+Denims-Tshirt(Women)|Cotton|350|306|7
+Jack&Jones-Formals(Men)|Cotton|500|307|8

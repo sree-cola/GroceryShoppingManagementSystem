@@ -1,0 +1,5 @@
+101|Ram|Manglore|rammohan@gmail.com
+102|Shyam|Banglore|shyamprasad@gmail.com
+103|Rohan|Banglore|rohanprasad@gmail.com
+104|Ronny|Mumbai|ronnysingh@gmail.com
+105|sarah|Delhi|sarahjuliet@yahoo.com

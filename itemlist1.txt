@@ -1,0 +1,7 @@
+Iphone14ProMAX(APPLE)|256GB|90000|100|15
+GalaxyNoteUltra(Smasung)|1TB|100000|101|12
+ZenphonepPro13(Asus)|128GB|50000|102|12
+Aircooler(Panasonic)|1L|5289|103|9
+Ceiling-Fan(Anchor)|3Wings|2499|104|12
+S23Plus(Smasung)|256GB|74999|105|10
+NanoCellTV(LG)|64Gb|64990|106|7

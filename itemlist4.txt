@@ -1,0 +1,6 @@
+Domex-(BathroomCleaner)|1L|350|201|0
+Hapic-(BathroomCleaner)|1L|250|202|8
+Hapic-(ToiletCleaner)|1L|150|203|7
+Odonil-LimeFreash|250g|100|204|5
+Ambipure-Lavender|500ml|300|205|5
+MysoreSandalSoap|250g|80|206|4
