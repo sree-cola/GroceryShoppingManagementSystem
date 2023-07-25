@@ -3,4 +3,4 @@ Implementation of Basic Filestructure concepts and operations-Read,Write,Search,
 
 Two Important FileStructures used are Hashing concepts with Linear Probing to avoid Collision and Primary Indexing which takes Employee id as the primary key in the Index file.
 
-Please star the code, If found usefull
+Please Star the code, If found usefull
